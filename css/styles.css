@@ -38,6 +38,10 @@ body {
   width: 20%;
   float: right;
   background-color:cornflowerblue;
+  border: 2px;
+  padding: 15px;
+  margin: 10px;
+  box-sizing: border-box;
 }
 
 .columnRight {
@@ -51,6 +55,6 @@ body {
 }
 
 .boxSpacing {
-  padding: 5px;
+  padding: 10px;
   margin: 10px;
 }
