@@ -17,3 +17,7 @@ body {
   background-color: paleturquoise;
 }
 
+.important {
+  font-size: 20px;
+  font-weight: 200;
+}
