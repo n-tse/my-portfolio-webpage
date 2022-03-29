@@ -18,7 +18,7 @@ _This webpage is a digital introduction/portfolio of me and my work thus far at 
 * _Clone the repository to your device_
 * _Open the newly cloned 'my-portfolio-webpage' directory_
 * _Click on index.html_
-* _OR, visit n-tse.github.io/my-portfolio-webpage/
+* _OR, visit n-tse.github.io/my-portfolio-webpage/_
 
 ## Known Bugs
 
