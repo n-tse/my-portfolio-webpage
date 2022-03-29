@@ -2,6 +2,8 @@ h1 {
   font-size: 60px;
   color: cornflowerblue;
   font-family: 'Menlo';
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 h2 {
@@ -13,6 +15,7 @@ img {
   float: left;
   width: 500px;
   height: auto;
+  margin-right: 20px;
 }
 
 body {
@@ -28,6 +31,8 @@ body {
 
 .sectionHeader {
   font-size: 40px;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .important {
@@ -45,7 +50,7 @@ body {
 }
 
 .columnRight {
-  width: 700px;
+  width: 680px;
   float: right;
 }
 
