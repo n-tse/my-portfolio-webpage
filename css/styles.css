@@ -15,9 +15,15 @@ img {
 
 body {
   background-color: paleturquoise;
+  font-family: 'Segoe UI';
 }
 
 .important {
   font-size: 20px;
-  font-weight: 200;
+  font-weight: bolder;
+  color: green;
+}
+
+.sectionHeader {
+  font-size: 30px;
 }
