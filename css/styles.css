@@ -1,6 +1,6 @@
 h1 {
   font-size: 60px;
-  color: palevioletred;
+  color: cornflowerblue;
   font-family: 'Menlo';
 }
 
@@ -11,6 +11,8 @@ h2 {
 
 img {
   float: left;
+  width: 500px;
+  height: auto;
 }
 
 body {
@@ -46,4 +48,9 @@ body {
 .columnLeft {
   width: 900px;
   float: left;
+}
+
+.boxSpacing {
+  padding: 5px;
+  margin: 10px;
 }
