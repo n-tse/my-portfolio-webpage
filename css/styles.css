@@ -31,3 +31,19 @@ body {
 .important {
   color: darkslateblue;
 }
+
+.sidebar {
+  width: 20%;
+  float: right;
+  background-color:cornflowerblue;
+}
+
+.columnRight {
+  width: 700px;
+  float: right;
+}
+
+.columnLeft {
+  width: 900px;
+  float: left;
+}
