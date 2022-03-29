@@ -1,12 +1,12 @@
 h1 {
-  font-size: 50px;
+  font-size: 60px;
   color: palevioletred;
-  font-family: 'Lucida Calligraphy';
+  font-family: 'Menlo';
 }
 
 h2 {
-  font-size: 20px;
-  font-family: 'Lucida Calligraphy';
+  font-size: 30px;
+  font-family: 'Papyrus';
 }
 
 img {
@@ -18,12 +18,16 @@ body {
   font-family: 'Segoe UI';
 }
 
-.important {
+.intro {
   font-size: 20px;
   font-weight: bolder;
   color: green;
 }
 
 .sectionHeader {
-  font-size: 30px;
+  font-size: 40px;
+}
+
+.important {
+  color: darkslateblue;
 }
