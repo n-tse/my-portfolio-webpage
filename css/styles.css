@@ -13,7 +13,7 @@ h2 {
 
 img {
   float: left;
-  width: 500px;
+  width: 400px;
   height: auto;
   margin-right: 20px;
   border: solid black;
@@ -52,7 +52,7 @@ body {
 }
 
 .columnRight {
-  width: 680px;
+  width: 780px;
   float: right;
 }
 
