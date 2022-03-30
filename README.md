@@ -11,7 +11,7 @@
 
 ## Description
 
-_This webpage is a digital introduction/portfolio of me and my work thus far at Epicodus. It is written in HTML and includes CSS styling, an image, ordered and unordered lists, and hyperlinks to my GitHub repository of other projects._
+_This [webpage](n-tse.github.io/my-portfolio-webpage/) is a digital introduction/portfolio of me and my work thus far at Epicodus. It is written in HTML and includes CSS styling, an image, ordered and unordered lists, and hyperlinks to my GitHub repository of other projects._
 
 ## Setup/Installation Requirements
 
